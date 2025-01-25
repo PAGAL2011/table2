@@ -1,0 +1,41 @@
+ table{
+    width: 30%;
+    background-color: black;
+ }
+ td{
+   
+    background-color: red;
+    color: #fff;
+} 
+th{
+    
+    background-color: yellow;
+    
+}  
+.pz{
+    background-color: green;
+    color: #fff;
+} 
+.pc{
+    background-color: green;
+    color: #fff;
+} 
+.px{
+    background-color: green;
+    color: #fff;
+}
+caption{
+    background-color: aqua;
+}
+.pf{
+    background-color: #fff;
+    color: black;
+}
+.ps{
+    background-color: #fff;
+    color: black;
+}
+.b{
+    background-color: #fff;
+    color: black;
+}
